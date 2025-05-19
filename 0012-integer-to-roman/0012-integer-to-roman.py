@@ -12,5 +12,8 @@ class Solution:
                 result.append(symbol)
                 num -= values
         return ''.join(result)
-
-            
+"""
+''.join(['L', 'V', 'I', 'I', 'I'])  
+→ "LVIII" 하려고 ''.join(result) 하는 것임
+빈 문자열''을 기준으로 리스트 안에 있는 문자열을 전부 하나로 이어붙이라는 뜻
+"""
