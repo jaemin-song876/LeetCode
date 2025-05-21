@@ -22,6 +22,7 @@ coding test
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jaemin-song876/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/jaemin-song876/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ coding test
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jaemin-song876/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/jaemin-song876/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
