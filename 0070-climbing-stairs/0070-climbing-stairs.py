@@ -15,6 +15,6 @@ class Solution(object):
         for i in range(2, n+1):
             temp = curr
             curr = prev + curr # 앞의 두 수를 더해서 다음수 만들기
-            prev = temp
+            prev = temp # 방금 썼던 curr를 이제는 prev로 옮김, 즉 두수를 한칸 씩 앞으로 당겨서 다음 단계 준비
         return curr
         
