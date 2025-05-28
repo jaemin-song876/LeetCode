@@ -21,7 +21,7 @@ class Solution(object):
             
             s.append(str(carry % 2))
 
-            carry //= 2
+            carry //= 2 #몫만 carry에 다시 저장
         
         return ''.join(reversed(s))
         
