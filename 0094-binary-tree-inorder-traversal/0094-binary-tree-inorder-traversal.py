@@ -11,15 +11,16 @@ class Solution(object):
         :rtype: List[int]
         """
 
-        st = [] #stack처럼 사용
-        res  = [] #순회 결과
+        st = [] #stack처럼 사용, 지나온 노드 기억
+        res  = [] #방문 순서 담기
 
-        while root or st:
+        while root or st: #root는 현재 보고 있는 노드
             while root: #왼쪽끝까지 가는중
-                st.append(root)
+                st.append(root) #root가 있으면 그걸 st에 저장함
                 root = root.left
+                #root.left가 없으면 root가 None이되니까 while 탈출함.
 
-            root = st.pop()
+            root = st.pop() #돌아가기; st에서 꺼내기
             res.append(root.val)
 
             root = root.right
