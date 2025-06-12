@@ -16,6 +16,7 @@ coding test
 | [0066-plus-one](https://github.com/jaemin-song876/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jaemin-song876/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/jaemin-song876/LeetCode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ coding test
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jaemin-song876/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/jaemin-song876/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/jaemin-song876/LeetCode/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
