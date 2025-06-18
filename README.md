@@ -29,6 +29,7 @@ coding test
 | [0013-roman-to-integer](https://github.com/jaemin-song876/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaemin-song876/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/jaemin-song876/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jaemin-song876/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
@@ -36,6 +37,7 @@ coding test
 | [0021-merge-two-sorted-lists](https://github.com/jaemin-song876/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jaemin-song876/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/jaemin-song876/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jaemin-song876/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@ coding test
 | [0088-merge-sorted-array](https://github.com/jaemin-song876/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jaemin-song876/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jaemin-song876/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jaemin-song876/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
