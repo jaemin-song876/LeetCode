@@ -20,6 +20,7 @@ coding test
 | [0119-pascals-triangle-ii](https://github.com/jaemin-song876/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaemin-song876/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jaemin-song876/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ coding test
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaemin-song876/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/jaemin-song876/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaemin-song876/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -50,6 +52,7 @@ coding test
 | [0067-add-binary](https://github.com/jaemin-song876/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jaemin-song876/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jaemin-song876/LeetCode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -111,6 +114,7 @@ coding test
 | [0015-3sum](https://github.com/jaemin-song876/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jaemin-song876/LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/jaemin-song876/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -131,11 +135,13 @@ coding test
 | ------- |
 | [0035-search-insert-position](https://github.com/jaemin-song876/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jaemin-song876/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jaemin-song876/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jaemin-song876/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
