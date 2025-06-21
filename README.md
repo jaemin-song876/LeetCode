@@ -20,6 +20,7 @@ coding test
 | [0119-pascals-triangle-ii](https://github.com/jaemin-song876/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaemin-song876/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jaemin-song876/LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/jaemin-song876/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ coding test
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaemin-song876/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/jaemin-song876/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaemin-song876/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/jaemin-song876/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -115,6 +117,7 @@ coding test
 | [0015-3sum](https://github.com/jaemin-song876/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jaemin-song876/LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/jaemin-song876/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/jaemin-song876/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
