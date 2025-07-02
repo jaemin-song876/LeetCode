@@ -23,6 +23,7 @@ coding test
 | [0217-contains-duplicate](https://github.com/jaemin-song876/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaemin-song876/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/jaemin-song876/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ coding test
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jaemin-song876/LeetCode/tree/master/0067-add-binary) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/jaemin-song876/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Memoization
 |  |
 | ------- |
@@ -211,4 +213,8 @@ coding test
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/jaemin-song876/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
