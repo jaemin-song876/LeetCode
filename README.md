@@ -24,6 +24,7 @@ coding test
 | [0238-product-of-array-except-self](https://github.com/jaemin-song876/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jaemin-song876/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jaemin-song876/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaemin-song876/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jaemin-song876/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -100,6 +101,7 @@ coding test
 | [0141-linked-list-cycle](https://github.com/jaemin-song876/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaemin-song876/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/jaemin-song876/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jaemin-song876/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,12 +148,14 @@ coding test
 | [0035-search-insert-position](https://github.com/jaemin-song876/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jaemin-song876/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jaemin-song876/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jaemin-song876/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jaemin-song876/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jaemin-song876/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/jaemin-song876/LeetCode/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
