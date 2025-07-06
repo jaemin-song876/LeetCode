@@ -9,7 +9,7 @@ class Solution(object):
 
         for i in range(len(nums)):
             x = abs(nums[i])
-            idx = x-1
+            idx = x-1 #index that can check the status of x
 
             #check if visited
             if nums[idx] < 0:
