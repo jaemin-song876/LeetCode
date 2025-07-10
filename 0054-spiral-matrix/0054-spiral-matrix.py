@@ -22,12 +22,12 @@ class Solution(object):
                 result.append(matrix[i][right])
 
             #오->왼
-            if left < right and top < bottom:
+            if top < bottom:
                 for i in range(right-1,left -1, -1):
                     result.append(matrix[bottom][i])
 
             #아래->위
-            if left < right and top < bottom:
+            if left < right:
                 for i in range(bottom-1, top, -1):
                     result.append(matrix[i][left])
 
