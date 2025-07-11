@@ -22,6 +22,7 @@ coding test
 | [0118-pascals-triangle](https://github.com/jaemin-song876/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jaemin-song876/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaemin-song876/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/jaemin-song876/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/jaemin-song876/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/jaemin-song876/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jaemin-song876/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -40,6 +41,7 @@ coding test
 | [0013-roman-to-integer](https://github.com/jaemin-song876/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaemin-song876/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/jaemin-song876/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/jaemin-song876/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/jaemin-song876/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaemin-song876/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/jaemin-song876/LeetCode/tree/master/0217-contains-duplicate) |
@@ -239,4 +241,8 @@ coding test
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jaemin-song876/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jaemin-song876/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
