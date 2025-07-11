@@ -13,6 +13,7 @@ coding test
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaemin-song876/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jaemin-song876/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jaemin-song876/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/jaemin-song876/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jaemin-song876/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jaemin-song876/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jaemin-song876/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -61,6 +62,7 @@ coding test
 | [0009-palindrome-number](https://github.com/jaemin-song876/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/jaemin-song876/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jaemin-song876/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/jaemin-song876/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jaemin-song876/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jaemin-song876/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jaemin-song876/LeetCode/tree/master/0069-sqrtx) |
@@ -229,6 +231,7 @@ coding test
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jaemin-song876/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jaemin-song876/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jaemin-song876/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jaemin-song876/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
