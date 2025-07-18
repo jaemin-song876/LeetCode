@@ -10,11 +10,19 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-
         if not root:
             return 0
-        left_depth = self.maxDepth(root.left)
-        right_depth = self.maxDepth(root.right)
-        return 1+max(left_depth, right_depth)
-
+        queue = deque([root])
+        depth =0
         
+        while queue:
+            size = len(queue) #현재레벨에 있는 노드 수
+            for _ in range(size):
+                node=queue.popleft()
+
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+            depth += 1
+        return depth
