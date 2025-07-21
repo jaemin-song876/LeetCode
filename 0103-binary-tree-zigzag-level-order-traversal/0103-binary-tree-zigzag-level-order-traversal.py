@@ -16,7 +16,7 @@ class Solution(object):
         result = []
         queue = deque([root])
 
-        is_left_to_right = True
+        normal_direction = True
 
         while queue:
             level_size = len(queue)
@@ -25,9 +25,10 @@ class Solution(object):
             for _ in range(level_size):
                 node = queue.popleft()
 
-                if is_left_to_right:
+                #정방향이 true 이면 원래방향(뒤쪽, 오른쪽)에 추가함
+                if normal_direction:
                     current_level.append(node.val)
-                else:
+                else: #false이면 앞에 삽입
                     current_level.insert(0,node.val)#list.insert(index, value) 지정한 인덱스 위치에 값을 삽입하겠다. 즉 리스트의 맨앞(0번위치)에 값을 넣겠다
 
                 if node.left:
@@ -36,6 +37,6 @@ class Solution(object):
                     queue.append(node.right)
 
             result.append(current_level)
-            is_left_to_right = not is_left_to_right
+            normal_direction = not normal_direction
 
         return result
