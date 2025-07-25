@@ -11,14 +11,18 @@ class Solution(object):
         :type targetSum: int
         :rtype: bool
         """
+
         if not root:
             return False
-        
-        if not root.left and not root.right and root.val == targetSum:
+
+        if targetSum - root.val == 0 and not root.right and not root.left:
             return True
 
-        #왼쪽과 오른쪽 자식으로 재귀 호출
-        return self.hasPathSum(root.left, targetSum - root.val) or self.hasPathSum(root.right, targetSum - root.val)
+        left = self.hasPathSum(root.left, targetSum-root.val)
 
+        right = self.hasPathSum(root.right, targetSum-root.val)
 
-        
+        if left or right:
+            return True
+        else:
+            return False
