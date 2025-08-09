@@ -93,6 +93,7 @@ coding test
 | [0058-length-of-last-word](https://github.com/jaemin-song876/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jaemin-song876/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jaemin-song876/LeetCode/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/jaemin-song876/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,6 +143,7 @@ coding test
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaemin-song876/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0257-binary-tree-paths](https://github.com/jaemin-song876/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -201,6 +203,7 @@ coding test
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jaemin-song876/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jaemin-song876/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jaemin-song876/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -225,6 +228,7 @@ coding test
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jaemin-song876/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jaemin-song876/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jaemin-song876/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -252,6 +256,7 @@ coding test
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jaemin-song876/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jaemin-song876/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jaemin-song876/LeetCode/tree/master/0617-merge-two-binary-trees) |
