@@ -17,6 +17,7 @@ coding test
 | [0054-spiral-matrix](https://github.com/jaemin-song876/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jaemin-song876/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jaemin-song876/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/jaemin-song876/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/jaemin-song876/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/jaemin-song876/LeetCode/tree/master/0118-pascals-triangle) |
@@ -92,6 +93,7 @@ coding test
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaemin-song876/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/jaemin-song876/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jaemin-song876/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/jaemin-song876/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/jaemin-song876/LeetCode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/jaemin-song876/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
@@ -143,6 +145,7 @@ coding test
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaemin-song876/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/jaemin-song876/LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/jaemin-song876/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
@@ -212,6 +215,7 @@ coding test
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jaemin-song876/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jaemin-song876/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0100-same-tree) |
@@ -296,6 +300,7 @@ coding test
 | [0048-rotate-image](https://github.com/jaemin-song876/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jaemin-song876/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jaemin-song876/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/jaemin-song876/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jaemin-song876/LeetCode/tree/master/0200-number-of-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jaemin-song876/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
