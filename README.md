@@ -17,6 +17,7 @@ coding test
 | [0054-spiral-matrix](https://github.com/jaemin-song876/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jaemin-song876/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jaemin-song876/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/jaemin-song876/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jaemin-song876/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/jaemin-song876/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -145,6 +146,7 @@ coding test
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaemin-song876/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/jaemin-song876/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jaemin-song876/LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/jaemin-song876/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Stack
@@ -170,6 +172,7 @@ coding test
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jaemin-song876/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/jaemin-song876/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/jaemin-song876/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jaemin-song876/LeetCode/tree/master/0287-find-the-duplicate-number) |
