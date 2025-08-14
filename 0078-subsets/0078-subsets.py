@@ -1,28 +1,22 @@
-class Solution(object):
-    def subsets(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
-        result = []
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        res = []
+        subset =[]
 
-        def dfs(current_subset, index):
-            # 종료조건
-            if index == len(nums):
-                result.append(list(current_subset))
+        def dfs(i):
+            if i >= len(nums):
+                res.append(subset.copy())
                 return
 
-            #nums[index]를 포함하는 경우
-            current_subset.append(nums[index])
-            dfs(current_subset, index+1)
+            #decision to include nums[i]
+            subset.append(nums[i])
+            dfs(i+1)
 
-            #되돌리기 후 포함하지 않는경우
-            current_subset.pop()
+            #decision NOT to include nums[i]
+            subset.pop()
+            dfs(i+1)
 
-            #두번째 선택
-            dfs(current_subset, index+1)
+        dfs(0)
+        return res
+        
 
-        #재귀함수 호출
-        dfs([], 0)
-
-        return result
