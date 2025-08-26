@@ -1,20 +1,19 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
 
-        result=[]
+        if len(nums) ==1:
+            return [nums[:]]
 
-        #base case
-        if (len(nums)==1):
-            return [nums.copy()]
+        result = []
 
-        for i in range(len(nums)):
+        for _ in range(len(nums)):
             n = nums.pop(0)
+            perms = self.permute(nums)
 
-            permu = self.permute(nums)
+            for p in perms:
+                p.append(n)
 
-            for perm in permu:
-                perm.append(n)
-            result.extend(permu)
+            result.extend(perms)
             nums.append(n)
         return result
 
