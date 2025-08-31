@@ -33,6 +33,7 @@ coding test
 | [0268-missing-number](https://github.com/jaemin-song876/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jaemin-song876/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jaemin-song876/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/jaemin-song876/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jaemin-song876/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaemin-song876/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jaemin-song876/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -322,4 +323,8 @@ coding test
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/jaemin-song876/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/jaemin-song876/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
